@@ -3,22 +3,50 @@
 3.menu list for new users (Or also if any user wnat to know the menu)
 4.search any item
 5.know the price of item
-6.know the item type(Veg or non  veg)
-7.know ingredient in any item
-8.ordr item(Single or multiple)
-9.What are the new things on the menu??????
-10.What are birthday cakes??????
-11.What are the special of the week??????
-12.show image of item?????
-13.Final confirmation(Accept/Reject)
-14.user wnat to change the delivery day?????
-15.show the timming when order deliverd between?????
-16.ask the payment mode(Cash/Card/Bank Accoun)??????
-17.Generate reference id of order and send it to user for detail after order???????
-18.user can see the detaisls of order by referece id and user can also cancel the order before 48 hrs.  ?????
-19.generate daily basis order details and send it to manager???????
+6.know the item type(Veg, non  veg or pork)
+7. knoz the description of the item
+8.know ingredient in any item
+9.order item(Single or multiple)
+10.What are the new things on the menu??????
+11.What are birthday cakes??????
+12.What are the special of the week??????
+13.show image of item?????
+14.Final confirmation(Accept/Reject)
+15.user wnat to change the delivery day?????
+16.show the timming when order deliverd between?????
+17.ask the payment mode(Cash/Card/Bank Accoun)??????
+18.Generate reference id of order and send it to user for detail after order???????
+19.user can see the detaisls of order by referece id and user can also cancel the order before 48 hrs.  ?????
+20.generate daily basis order details and send it to manager???????
 
 
 
-20.I have one item name (MADAME) But it have two diffrence size, Than 
-	Response : I have MADAME but in two diffrence size Individual, by 1 kg - 6/8 pax. Which types of madame you wnat and how may.
+21.I have one item name (MADAME) But it have two diffrence size, Then 
+	Response : I have MADAME but in two diffrence size Individual, by 1 kg - 6/8 pax. Which type of madame you want and how many?
+	
+Here are the items which have different sizes: 
+- madame
+- monsieur
+- baguette
+- wheat bread
+- multigrains
+- spicy ratatouille
+- paneer a la tomate
+- chicken basquaise
+- strawberry tart
+- apple tart
+- lemon tart
+- chocolate tart
+- opera 
+- fraisier
+- l'exotic
+
+22. An item with 3 types: macaron.
+      Response: I have macarons but I have 3 different formats: macaron individual, macaron box of 3 and macaron box of 8. Which type of macaron do you want and how many?
+  
+  
+When the person is asking for pasta you say:  "Ok! We have 6 types of Pasta: Penne + arrabiata sauce on side, Penne + pesto sauce on side, Penne + bolognaise sauce on side, Spaghetti + arrabiata sauce on side, Spaghetti + pesto sauce on side, Spaghetti + bolognaise sauce on side. Which type of Pasta you want and how many?". +  al dente fusilli veg and non veg (8 types in total)
+
+"Ok! We have 2 types of Croque: Croque monsieur, Croque chicken. Which type of Croque you want and how many?" + vegetarian croque (3 types of lasagna)
+
+If the client ask for pasta pesto: "ok, we have two types of pasta pesto: spaghetti and penne. Which one do you want and how many?" + same thing for pasta bolognaise and pasta arrabiata
