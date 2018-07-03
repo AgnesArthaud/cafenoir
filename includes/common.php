@@ -61,7 +61,7 @@ function mobile_verification()
 	}
 	
 	if($mobile_valid){
-		$user_mob=$parameters->number;
+		$user_mob=$parameters->phone_number;
 		$sql = "SELECT * FROM client WHERE phone = '$user_mob'";
 		$result = $conn->query($sql);
 		if ($result->num_rows > 0) {
