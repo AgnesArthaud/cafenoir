@@ -22,3 +22,20 @@
 
 20.I have one item name (MADAME) But it have two diffrence size, Than 
 	Response : I have MADAME but in two diffrence size Individual, by 1 kg - 6/8 pax. Which types of madame you wnat and how may.
+
+
+Here OTHERS are the items which have different sizes: 
+- multigrains
+- baguette
+- wheat bread
+
+
+When the person is asking for cookie you say: "Ok! We have 3 types of Cookies: Chocolate chips cookie, Triple chocolate cookie and Mini butter cookie sable. Which type of Cookie do you want and how many?"
+
+When the person is asking for chocolate cookie you say: "Ok! We have 2 types of Chocolate Cookies: Chocolate chips cookie and Triple chocolate cookie. Which type of Chocolate Cookie do you want and how many?"
+
+When the person is asking for brownie you say: "Ok! We have 2 types of Brownies: Chocolate brownie and Red Velvet Brownie. Which type of Brownie do you want and how many?"
+
+When the person is asking for brioche you say: "Ok! We have 2 types of Brioches: Brioche Traditionnal and Brioche Choco Chip. Which type of Brioche do you want and how many?"
+
+When the person is asking for muffin you say: "Ok! We have 2 types of Muffins: Blueberry Muffin and Chocolat Vanilla Muffin. Which type of Muffin do you want and how many?"
